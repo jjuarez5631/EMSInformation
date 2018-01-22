@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EMS Information</string>
+
+    <string name="name">Name:</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="address">Address:</string>
+    <string name="doctor">Doctor:</string>
+    <string name="medication">Medication:</string>
+    <string name="medicalConditions">Medical Conditions:</string>
+    <string name="allergies">Allergies:</string>
+
+
+    <string name="user_name">Jim Bean</string>
+    <string name="user_dob">July 18, 1980</string>
+    <string name="user_address">543 S Beaver St Miami, Florida 33101</string>
+    <string name="user_doctor">Dr. James Humorous</string>
+    <string name="user_currentMediaction">None</string>
+    <string name="user_medicalConditions">Lactose Intolerance</string>
+    <string name="user_allergies">None</string>
+</resources>
